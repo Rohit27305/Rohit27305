@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17616
-Fork on GitHub
-5147
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Rohit Verma</h1>
 <h3 align="center">A passionate for Programming and solid strength in DSA.</h3>
 
@@ -38,27 +22,4 @@ preview
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit27305&show_icons=true&locale=en&layout=compact" alt="rohit27305" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<p> As a dedicated student I have solid strength in programming. Strong decision making abilities and a passion for tracking risks. Always looking for the opportunity that improve my knowledge and enhance my career. <br> I have great knowledge about DSA and solved so many questions. </p>
