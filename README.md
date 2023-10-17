@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit27305&show_icons=true&locale=en&layout=compact" alt="rohit27305" /></p>
 
-<p> As a dedicated student I have solid strength in programming. Strong decision making abilities and a passion for tracking risks. Always looking for the opportunity that improve my knowledge and enhance my career. <br> I have great knowledge about DSA and solved so many questions. </p>
+<h3> <p> As a dedicated student I have solid strength in programming. Strong decision making abilities and a passion for tracking risks. Always looking for the opportunity that improve my knowledge and enhance my career. <br> I have great knowledge about DSA and solved so many questions. </p></h3>
