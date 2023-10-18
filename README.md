@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rohitverma27305@gmail.com**
 
-<img src = "https://images.app.goo.gl/h96JS6sdoNYNZZ7c8" alt image src>
+<img src = "https://images.app.goo.gl/h96JS6sdoNYNZZ7c8" alt = "image src" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
