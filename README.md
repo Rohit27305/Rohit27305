@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **rohitverma27305@gmail.com**
 
-<img src = "https://images.app.goo.gl/h96JS6sdoNYNZZ7c8" alt = "image src" >
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rohitverma9911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitverma9911" height="30" width="40" /></a>
