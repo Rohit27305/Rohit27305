@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Verma</h1>
-<h3 align="center">A passionate for Programming and solid strength in DSA.</h3>
+<h3 align="center">A passionate for Competetive Programming and solid strength in DSA.</h3>
 
 - 🌱 I’m currently learning **DSA**
 
