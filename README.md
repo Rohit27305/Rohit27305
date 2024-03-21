@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohit27305/My_Projects](https://github.com/Rohit27305/My_Projects)
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA** & **DEVELOPMENT**
 
 - 📫 How to reach me **rohitverma27305@gmail.com**
 -  <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz" alt = "Image">
