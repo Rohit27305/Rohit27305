@@ -7,7 +7,6 @@
 - 💬 Ask me about **DSA** , **DEVELOPMENT** and **Devops**
 
 - 📫 How to reach me **rohitverma27305@gmail.com**
--  <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/programming%20evolution.jpg?itok=WTj9-yNz" alt = "Image">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
