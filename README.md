@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there!<br><br>I'm Rohit Verma, a DevOps enthusiast with a deep interest in cloud computing, automation, and infrastructure as code.<br>🔧 What I Do<br><br>I work with tools like Kubernetes, Docker, Helm, and GitHub Actions to build scalable and secure CI/CD pipelines. I enjoy writing Helm charts, managing cloud environments (AWS, DigitalOcean)
+👋 Hey there!I’m a DevOps Engineer who loves building and automating things that make software run smoother and faster. I work with tools like Kubernetes, Docker, Helm, and GitHub Actions to manage deployments across different environments like Dev, QA, and Production. I’ve set up cloud infrastructure on platforms like AWS and DigitalOcean and helped teams save time and money by improving their workflows. I also enjoy sharing what I learn through blogs and open-source projects. My goal is to make software delivery easier, more secure, and reliable for everyone involved.
 
 
 ## 🌐 Socials:
