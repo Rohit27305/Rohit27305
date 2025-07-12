@@ -1,4 +1,5 @@
-👋 Hey there!<br> I’m a DevOps Engineer who loves building and automating things that make software run smoother and faster. </br> I work with tools like Kubernetes, Docker, Helm, and GitHub Actions to manage deployments across different environments like Dev, QA, and Production. <br> I’ve set up cloud infrastructure on platforms like AWS and DigitalOcean and helped teams save time and money by improving their workflows. I also enjoy sharing what I learn through blogs and open-source projects. My goal is to make software delivery easier, more secure, and reliable for everyone involved. </br>
+## 👋 Hey there!
+I’m a DevOps Engineer who loves building and automating things that make software run smoother and faster. </br> I work with tools like Kubernetes, Docker, Helm, and GitHub Actions to manage deployments across different environments like Dev, QA, and Production. <br> I’ve set up cloud infrastructure on platforms like AWS and DigitalOcean and helped teams save time and money by improving their workflows. I also enjoy sharing what I learn through blogs and open-source projects. My goal is to make software delivery easier, more secure, and reliable for everyone involved. </br>
 
 
 ## 🌐 Socials:
